@@ -1,1 +1,1 @@
-The files are a series of code blocks that I used for data collection,cleaning and analysis of my thesis. This is my first project, so free to look and comment. 
+Here I document my journey of data collection, data cleaning and data analysis of HDB resale price and rent for my thesis. This is my first project, so free to look and comment. 
